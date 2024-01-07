@@ -22,13 +22,26 @@ Finally, run the necessary commands in the CLI that I show in the video, and pre
 Simply check out the 3 videos below for a demo on using the E-Commerce Back End!
 
 Firing up the application and testing 'Tag' CRUD Operations:
-https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/3c7fe52c-5947-42e8-9981-e1a09c434587
+
+
+https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/6b238416-59b5-4ab4-8fa6-6a59e532a7f4
+
+
+
+
 
 Testing 'Products' CRUD Operations: 
-https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/57acd402-5ee2-45bb-8bf4-f3b1ae386c6a
+
+
+https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/73362615-c52b-4bf1-9390-7d96010f7505
+
 
 Testing 'Categories' CRUD Operations: 
-https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/e6653dab-ebb5-4143-97b3-bcb4dc378e45
+
+
+
+https://github.com/SnipaMasta/E-Commerce-Back-End/assets/144749848/d66bb556-1020-465e-a9f6-9267ee73d6ab
+
 
 ## Credits
 
